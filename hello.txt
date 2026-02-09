@@ -1,4 +1,5 @@
 hello git! this is my first program
+learning git step by step
 
 ^x
 ^X
